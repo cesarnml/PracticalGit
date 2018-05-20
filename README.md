@@ -6,6 +6,7 @@
   - [Lesson 01 - Lesson 05 - The Basics](#lesson-01---lesson-05---the-basics)
   - [Lesson 06 - Git Branch](#lesson-06---git-branch)
   - [Lesson 07 - Git Merge](#lesson-07---git-merge)
+  - [Lesson 08 - Resolving Merge Conflicts](#lesson-08---resolving-merge-conflicts)
 
 <!-- /TOC -->
 
@@ -19,7 +20,7 @@
 * [x] Lesson 04
 * [x] Lesson 05
 * [x] Lesson 06
-* [ ] Lesson 07
+* [X] Lesson 07
 * [ ] Lesson 08
 * [ ] Lesson 09
 * [ ] Lesson 10
@@ -71,4 +72,11 @@ git push
 `git checkout -` => switches to previously checked out branch
 
 ## Lesson 07 - Git Merge
+
+`git merge [branch]` => merge desired branch to current checkout branch
+
+`git branch -d [branch]` => delete a branch (e.g after successful merge)
+
+## Lesson 08 - Resolving Merge Conflicts
+
 
