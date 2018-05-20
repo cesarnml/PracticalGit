@@ -29,5 +29,5 @@ git push
 `git branch [name]` => create a new branch
 
 `git checkout -b [name]` => creates and checksout new branch
-
+``changes``
 
